@@ -1,0 +1,11 @@
+## Assignment Description
+In this assignment, I practiced JavaScript programming by looping over an array of names and printing out either a hello or goodbye to that name to the browser console. If the name starts with a letter 'j' or 'J', it prints out "Goodbye JSomeName". If the name starts with any other letter, it prints out "Hello SomeName".
+
+## Files
+- `index.html`: HTML file for the assignment.
+- `script.js`: JavaScript file containing the code for the assignment.
+- `speakHello.js`: JavaScript file containing the hello speaker function.
+- `speakGoodbye.js`: JavaScript file containing the goodbye speaker function.
+
+## Usage
+Open `index.html` in a web browser, and check the console to see the output.
